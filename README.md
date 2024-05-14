@@ -44,6 +44,19 @@ ORDER BY
 LIMIT 10;
 ```
 
+| Job ID   | Job Title                         | Average Salary (ZAR) |
+|----------|-----------------------------------|----------------------|
+| 327180   | Data Architect                    | 165,000.0            |
+| 902908   | Deloitte Consulting: Data Analyst | 111,175.0            |
+| 704017   | Senior Data Analyst II            | 111,175.0            |
+| 1718997  | Marketplace Operations Data Analyst| 111,175.0           |
+| 253402   | Data Analyst - Insurance          | 111,175.0            |
+| 1365919  | Data Analyst - Marketing          | 111,175.0            |
+| 601938   | Data Manager                      | 105,650.0            |
+| 719231   | Data Analyst                      | 105,000.0            |
+| 1731236  | Data Analyst                      | 102,500.0            |
+| 1757639  | Data Analyst - Growth             | 100,500.0            |
+
 Here's the breakdown of the top data analyst jobs in 2023:
 
 * **Wide Salary Range:** Top 10 paying data analyst roles span from from ZAR 100,500 to ZAR 165,000 per year, indicating significant salary potential in the field.
@@ -315,6 +328,12 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 # Conclusions
 
 ### Insights
+
+The data suggests that there is a healthy demand for data-related roles in South Africa, with competitive salaries that reflect the importance of data management and analysis in today’s business environment.
+Companies seem to offer similar salaries for Data Analyst roles regardless of the specialization, which might indicate a standardized 
+approach to valuing these positions.
+
+The significant difference in salary between the Data Architect and the other roles suggests that there is a premium on leadership and advanced technical skills within the data field.
 
 The data indicates that while foundational skills like Python are essential, there is a premium on specialized skills in big data, cloud services, and real-time data processing. Professionals with expertise in these areas are likely to command higher salaries. Additionally, the data suggests that as certain skills become more common, such as version control with Git, the average salary may not be as high, possibly due to a larger supply of professionals with those skills.
 
