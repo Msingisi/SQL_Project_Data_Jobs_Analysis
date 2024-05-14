@@ -103,6 +103,26 @@ ORDER BY
     demand_count DESC
 LIMIT 10;
 ```
+* The high demand for **SQL** and **Excel** suggests that businesses value the ability to handle and analyze data at a fundamental level.
+* **Python’s** popularity underscores its importance in more advanced data manipulation, analysis, and machine learning tasks.
+* The presence of **Power BI**, **SAS**, and **Tableau** indicates a strong market for professionals who can turn data into actionable insights through visualization.
+* Cloud platforms like **Azure** and **AWS** are essential for modern data workflows, and their growing demand reflects the shift towards cloud-based solutions.
+* **SAP’s** demand, while lower, points to its niche role in enterprise resource planning and data processing.
+
+| Skill    | Demand Count |
+|----------|--------------|
+| SQL      | 1342         |
+| Excel    | 823          |
+| Python   | 676          |
+| Power BI | 526          |
+| SAS      | 444          |
+| R        | 428          |
+| Tableau  | 342          |
+| Azure    | 216          |
+| AWS      | 204          |
+| SAP      | 203          |
+
+*Table of the demand for the top 10 skills in data analyst job postings*
 
 ## 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
