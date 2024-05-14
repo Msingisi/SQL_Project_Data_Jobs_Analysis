@@ -42,3 +42,13 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
+
+Here's the breakdown of the top data analyst jobs in 2023:
+
+* **Wide Salary Range:** Top 10 paying data analyst roles span from from ZAR 100,500 to ZAR 165,000 per year, indicating significant salary potential in the field.
+* **Diverse Employers:** Companies like Luno, Deloitte, Impact, takealot.com, Standard Bank Group, and Kuda Technologies Ltd are among those offering high salaries, showing a broad interest across different industries.
+* **Job Title Variety:** The job titles reflect a variety of roles within the data field, from Data Analyst in different specializations (Insurance, Marketing, Growth) to Data Architect and Data Manager, showing a breadth of career paths available in the industry.
+
+## 2. Skills for Top Paying Jobs
+To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
+
